@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeccoman
 - 👀 I’m interested in Fullstack development 
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on web projects 
-- 📫 How to reach me +255673475260
+- 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a self-taught 
 
