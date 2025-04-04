@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeccoman-Ovvline
-- 👀 I’m interested in Fullstack development 
+- 👀 I’m interested in Fullstack development and DevOps
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on other people's projects 
 - 📫 Learn how to reach me 
