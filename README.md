@@ -2,4 +2,4 @@ Hi👋🏼 I'm [@Jeccoman](https://jacob-space.vercel.app/) a freelance mobile &
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeccoman&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
-Reach Out www.linkedin.com/in/jacob-mwatonoka/ 
+
