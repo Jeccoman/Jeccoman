@@ -1,2 +1,2 @@
-Hi, I'm [Jeccoman](https://jacob-space.vercel.app/) — a frontend / full-stack developer building web and mobile apps with React, Next.js, TypeScript, React Native and Go.
+Hi, I'm [Jeccoman](https://jacob-space.vercel.app/) — a frontend / full-stack developer building web and mobile apps with React, Next.js, TypeScript, React Native, Flutter and Go.
 
