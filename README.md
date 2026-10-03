@@ -1,2 +1,1 @@
-Hi, I'm [Jeccoman](https://jacob-space.vercel.app/) — a frontend / full-stack developer building web and mobile apps with React, Next.js, TypeScript, React Native, Flutter and Rust.
-
+𝐼 𝑎𝑚 𝑎 𝑀𝑎𝑛 𝑜𝑓 𝐹𝑜𝑟𝑡𝑢𝑛𝑒, 𝑎𝑛𝑑 𝐼 𝑚𝑢𝑠𝑡 𝑠𝑒𝑒𝑘 𝑚𝑦 𝐹𝑜𝑟𝑡𝑢𝑛𝑒.
